@@ -17,7 +17,7 @@ The microservice uses Ignite In-Memory database. So there you can set any other 
 allowed by that framework. For example, persistent storage can be attached so the cache
 to be kept after cluster failure.
 
-## Usege
+## Usage
 
 The specification for requests can be seen with the Swagger endpoint that is attached to the
 home route: `http://localhost:8080/`.
