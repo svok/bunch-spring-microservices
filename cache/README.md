@@ -12,7 +12,7 @@ in configuration.
 If the `queue` parameter is specified after delay is expired the object is sent to the consequent
 message queue
 
-## Detils of realization
+## Details of realization
 The microservice uses Ignite In-Memory database. So there you can set any other actions
 allowed by that framework. For example, persistent storage can be attached so the cache
 to be kept after cluster failure.
